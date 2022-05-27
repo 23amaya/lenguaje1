@@ -1,6 +1,3 @@
-# lenguaje1
-
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Masacre en Texas</title>
@@ -47,8 +44,6 @@
 	<br>Videos de Youtube</br>
 </p>
 <h1><i>Autor de este proyecto Miguel Isaac Amaya</i></h1>
-
-</p>
 <h1>Graciass</h1>
 
 </center>
