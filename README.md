@@ -46,6 +46,7 @@
 <h1><i>Autor de este proyecto Miguel Isaac Amaya</i></h1>
 
 </p>
+<h1>Gracias</h1>
 
 </center>
 
